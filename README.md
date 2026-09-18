@@ -21,7 +21,7 @@ This is my third Pf lab assigmnent which taught us alot like:
 A basic output  statement look like this: printf("This is my third assignment \n");
 
 ###CHECKLIST 
-- [x]Repository environment configuration (Tasks 1-3)
+- [x] Repository environment configuration (Tasks 1-3) 
 - [x] Basic I/O and data processing programs (Tasks 4-7)
 - [x] Advanced formatting and layout modules (Tasks 8-10)
 
